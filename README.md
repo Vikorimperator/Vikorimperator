@@ -1,14 +1,14 @@
 ![banner](https://github.com/Vikorimperator/Vikorimperator/assets/45931749/452f2796-9c16-4eab-bc76-9fac2425fb7b)
 
 
-## Hi there 👋 I'm Victor Gonzalez
+# Hi there 👋 I'm Victor Gonzalez
 
 ### 🔭 I have extensive experience in integrating information from various disciplines to achieve a given objective. I have used Python to automate processes, detect anomalies, missing data, impute data and generate machine learning models. I have used SQL to extract information, create views and manage the database. I have worked in AWS environments (Sage Maker) for the analysis of information and development of machine learning models.
 
 
-#### I possess extensive knowledge and expertise in data analysis and supervised learning techniques. To remain up-to-date with the latest industry trends and advancements, I constantly invest my time in professional development and training programs.
+### I possess extensive knowledge and expertise in data analysis and supervised learning techniques. To remain up-to-date with the latest industry trends and advancements, I constantly invest my time in professional development and training programs.
 
-#### My role as a Geophysical Engineer has allowed me to gain hands-on experience in conducting seismic surveys, analyzing data sets, and producing high-quality reports for clients. I have also worked closely with cross-functional teams to develop and implement innovative solutions that improve the efficiency and accuracy of data analysis processes.
+### My role as a Geophysical Engineer has allowed me to gain hands-on experience in conducting seismic surveys, analyzing data sets, and producing high-quality reports for clients. I have also worked closely with cross-functional teams to develop and implement innovative solutions that improve the efficiency and accuracy of data analysis processes.
 
 
 ### 🛠️ Tecnology
