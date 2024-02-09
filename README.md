@@ -3,7 +3,7 @@
 
 # Hi there 👋 I'm Victor Gonzalez
 
-### 🔭 I have extensive experience in integrating information from various disciplines to achieve a given objective. I have used Python to automate processes, detect anomalies, missing data, impute data and generate machine learning models. I have used SQL to extract information, create views and manage the database. I have worked in AWS environments (Sage Maker) for the analysis of information and development of machine learning models.
+### 🔭 I have extensive experience in integrating information from various disciplines to achieve a given objective. I have used Python to automate processes, detect anomalies, missing data, impute data and generate machine learning models. I have used SQL to extract information, create views and manage the database. I have worked in Azure environments for the analysis of information and development of machine learning models.
 
 
 ### I possess extensive knowledge and expertise in data analysis and supervised learning techniques. To remain up-to-date with the latest industry trends and advancements, I constantly invest my time in professional development and training programs.
