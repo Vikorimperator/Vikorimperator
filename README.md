@@ -3,12 +3,13 @@
 
 # Hi there 👋 I'm Victor Gonzalez
 
-### 🔭 I have extensive experience in integrating information from various disciplines to achieve a given objective. I have used Python to automate processes, detect anomalies, missing data, impute data and generate machine learning models. I have used SQL to extract information, create views and manage the database. I have worked in Azure environments for the analysis of information and development of machine learning models.
+### 🔭 I am a Geophysical engineer, I have been in the data area for 5 years, mainly in the oil and Gas industry. I have been in various roles, from data analyst, data scientist and project leader. I am interested in areas of data engineering and MLOps.
 
+### For the industry I have implemented automation processes and applied supervised, unsupervised models and neural networks in areas ranging from geosciences to well productivity. I have modeled and implemented the databases.
 
-### I possess extensive knowledge and expertise in data analysis and supervised learning techniques. To remain up-to-date with the latest industry trends and advancements, I constantly invest my time in professional development and training programs.
+### I have worked on cloud projects, especially BigData with DataBricks and DataFactory.
 
-### My role as a Geophysical Engineer has allowed me to gain hands-on experience in conducting seismic surveys, analyzing data sets, and producing high-quality reports for clients. I have also worked closely with cross-functional teams to develop and implement innovative solutions that improve the efficiency and accuracy of data analysis processes.
+### Despite having developed my career in the oil and gas industry, I am interested in entering other areas to continue growing as a data scientist and developer.
 
 
 ### 🛠️ Tecnology
